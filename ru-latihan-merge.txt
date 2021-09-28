@@ -1,0 +1,3 @@
+LATIHAN MERGE
+
+Merupakan sebuah aksi untuk menggabungkan branch
