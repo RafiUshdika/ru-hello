@@ -2,3 +2,9 @@ LATIHAN BRANCH
 
 1. PENGERTIAN BRANCH
 Yaitu Cabang bebas dari sebuah commit.
+
+2. Terminologi Branch
+> Membuat Git Branch
+> Membuat snapshot tanpa mengganggu jalur utama (Master Branch)
+> Fitur Experimental
+> 2 orang mengerjakan repo yang sama
