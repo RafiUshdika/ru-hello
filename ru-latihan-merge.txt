@@ -1,0 +1,6 @@
+LATIHAN MERGE
+
+Merupakan sebuah aksi untuk menggabungkan branch
+
+1. Istilah Merge
+>Adalah suatu Command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan kembali branch tersebut menjadi satu.
