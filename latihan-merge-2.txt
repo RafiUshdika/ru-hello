@@ -1,0 +1,8 @@
+LATIHAN MERGE
+
+Merupakan sebuah aksi untuk menggabungkan branch
+
+1. Istilah Merge
+>Adalah suatu Command dalam git untuk membuat branch yang bercabang menjadi satu kembali atau dengan kata lain mengintegrasikan kembali branch tersebut menjadi satu.
+>Merge akan mengkombinasikan beberapa tahapan commit menjadi satu branch yang terunifikasi. Biasanya merge dilakukan untuk menggabungkan dua branch menjadi satu.
+Namun, kita juga bisa melakukan merge dengan banyak branch sekaligus dengan cara octopus strategy
