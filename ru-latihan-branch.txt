@@ -1,0 +1,4 @@
+LATIHAN BRANCH
+
+1. PENGERTIAN BRANCH
+Yaitu Cabang bebas dari sebuah commit.
